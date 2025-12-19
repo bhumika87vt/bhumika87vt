@@ -11,11 +11,11 @@
 
 ### 🚀 Featured Projects
 
-- **Virtual Assistant** – Developed an AI-powered virtual assistant with voice interaction that performs daily tasks, answers queries, and supports personalized commands with memory features.
-  <sub> HTML, CSS, JavaScript. </sub>
+- **Virtual Assistant** – Built an AI-powered voice assistant that intelligently responds to user queries.
+  <sub>HTML, CSS, JavaScript.</sub>
 - **AI-Powered Web - HelpDesk for Institutions** – Built an AI-powered web helpdesk chatbot using NLP to automate FAQs and handle student and staff queries in real time.  
   <sub>Python, HTML, CSS, JavaScript.</sub>
-- **Portfolio Builder(Python Full Stack)** – Developed a full-stack portfolio builder using Flask, ReactJS, and SQL to collect user details and generate personalized portfolio pages.  
+- **Portfolio Builder(Python Full Stack)** – Built a full-stack portfolio builder that gathers user information and creates personalized portfolio pages. 
   <sub>React JS, Flask, SQLite / MySQL</sub>
 
 
