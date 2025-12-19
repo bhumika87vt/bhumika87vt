@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhumika V</h1>
 <h3 align="center">Computer Science & Engineering Student | Aspiring Full Stack Developer</h3>
 <p>I enjoy creating data-driven web applications with Flask, ReactJS, HTML, CSS, and MySQL/SQLite while maintaining a clean and user-friendly interface. </p>
-- 🌱 I’m currently learning **ReactJS and Flask**
+- 🌱 I’m currently learning **ReactJS and Flask.**
 
 - 🎯 Interested in **backend APIs, full stack projects, web development and problem solving.**
 
