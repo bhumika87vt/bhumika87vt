@@ -8,7 +8,7 @@
 - 📫 How to reach me **bhumikavshetty07@gmail.com**
 
 - 📄 View my Resume
-- <a href="[[https://drive.google.com/file/d/10h06Ozv-28pQ57hs2DqIO-uCM9Rj8Hcm/view?usp=sharing](https://drive.google.com/file/d/10h06Ozv-28pQ57hs2DqIO-uCM9Rj8Hcm/view?usp=sharing)](https://drive.google.com/file/d/10h06Ozv-28pQ57hs2DqIO-uCM9Rj8Hcm/view?usp=sharing)">Resume</a>
+  <a href="https://drive.google.com/file/d/10h06Ozv-28pQ57hs2DqIO-uCM9Rj8Hcm/view?usp=sharing">Download Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
